@@ -1,0 +1,3 @@
+#This is for Error Page.
+
+ErrorDocument 404 http://localhost/practice_code/blog-php/404.php
